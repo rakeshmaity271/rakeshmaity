@@ -11,7 +11,7 @@
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rakesh-maity-84891615b/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rakeshmaity271@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/honeycrisp)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rakeshmaity271)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](#)
 
 </div>
@@ -131,30 +131,30 @@ graph TD
 <!-- Dark/Light Theme Compatible Stats -->
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=honeycrisp&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10&hide_border=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=honeycrisp&show_icons=true&theme=default&include_all_commits=true&count_private=true&border_radius=10" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=honeycrisp&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=rakeshmaity271&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10&hide_border=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=rakeshmaity271&show_icons=true&theme=default&include_all_commits=true&count_private=true&border_radius=10" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rakeshmaity271&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10" />
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=honeycrisp&layout=compact&langs_count=8&theme=tokyonight&border_radius=10&hide_border=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=honeycrisp&layout=compact&langs_count=8&theme=default&border_radius=10" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=honeycrisp&layout=compact&langs_count=8&theme=tokyonight&border_radius=10" />
-  </picture>
-</div>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=honeycrisp&theme=tokyonight&border_radius=10&hide_border=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=honeycrisp&theme=default&border_radius=10" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=honeycrisp&theme=tokyonight&border_radius=10" alt="GitHub Streak" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=rakeshmaity271&layout=compact&langs_count=8&theme=tokyonight&border_radius=10&hide_border=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=rakeshmaity271&layout=compact&langs_count=8&theme=default&border_radius=10" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakeshmaity271&layout=compact&langs_count=8&theme=tokyonight&border_radius=10" />
   </picture>
 </div>
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=honeycrisp&bg_color=1a1b27&color=38bdae&line=70a5fd&point=bf91f3&area=true&hide_border=true&border_radius=10" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=honeycrisp&bg_color=ffffff&color=708090&line=24292e&point=24292e&area=true&hide_border=true&border_radius=10" />
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=honeycrisp&bg_color=1a1b27&color=38bdae&line=70a5fd&point=bf91f3&area=true&hide_border=true&border_radius=10" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=rakeshmaity271&theme=tokyonight&border_radius=10&hide_border=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=rakeshmaity271&theme=default&border_radius=10" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rakeshmaity271&theme=tokyonight&border_radius=10" alt="GitHub Streak" />
+  </picture>
+</div>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=rakeshmaity271&bg_color=1a1b27&color=38bdae&line=70a5fd&point=bf91f3&area=true&hide_border=true&border_radius=10" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=rakeshmaity271&bg_color=ffffff&color=708090&line=24292e&point=24292e&area=true&hide_border=true&border_radius=10" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=rakeshmaity271&bg_color=1a1b27&color=38bdae&line=70a5fd&point=bf91f3&area=true&hide_border=true&border_radius=10" />
   </picture>
 </div>
 
@@ -196,7 +196,7 @@ graph TD
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rakesh-maity-84891615b/)
 [![Email](https://img.shields.io/badge/Email-Let's_Discuss-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rakeshmaity271@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow_Me-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/honeycrisp)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow_Me-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rakeshmaity271)
 
 </div>
 
@@ -208,14 +208,14 @@ graph TD
 
 <!-- Snake Animation -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/honeycrisp/honeycrisp/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/honeycrisp/honeycrisp/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/honeycrisp/honeycrisp/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rakeshmaity271/rakeshmaity271/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rakeshmaity271/rakeshmaity271/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/rakeshmaity271/rakeshmaity271/output/github-snake-dark.svg" />
 </picture>
 
 ![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight)
 
-<img src="https://komarev.com/ghpvc/?username=honeycrisp&label=Profile%20Views&color=38BDF8&style=for-the-badge" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=rakeshmaity271&label=Profile%20Views&color=38BDF8&style=for-the-badge" alt="Profile Views" />
 
 </div>
 
