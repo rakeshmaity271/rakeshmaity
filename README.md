@@ -191,9 +191,6 @@ graph TD
 
 **Available for:** Project Development | Technical Consulting | Team Augmentation | Full Project Ownership
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rakesh-maity-84891615b/)
-[![Email](https://img.shields.io/badge/Email-Let's_Discuss-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rakeshmaity271@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow_Me-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rakeshmaity271)
 
 </div>
 
